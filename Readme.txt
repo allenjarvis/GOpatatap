@@ -9,7 +9,7 @@ either run the script or open it in Applescript and click "run"
 
 
 
-To use Ruby method to screate a "song"
+To use Ruby method to create a "song"
 
 open Terminal, type:
 
