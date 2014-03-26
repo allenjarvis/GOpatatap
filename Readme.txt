@@ -11,7 +11,11 @@ either run the script or open it in Applescript and click "run"
 
 To use Ruby method to screate a "song"
 
-navigate to dir
+open Terminal, type:
+
+cd ~/GOpatatap
+
+irb
 
 load 'transcribe.rb'
 
