@@ -15,6 +15,6 @@ navigate to dir
 
 load 'transcribe.rb'
 
-transcribe("textTObeTRANSCRIBED")
+transcribe("The Text That Will Be A Song")
 
 --> applescript will be created in dir
